@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @niranjanimalka98
+- 👋 Hi, I’m Niranjan Imalka
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning Springboot, Web AR, Three JS and computer vision
 - 📫 How to reach me wijekonniranjan@gmail.com
